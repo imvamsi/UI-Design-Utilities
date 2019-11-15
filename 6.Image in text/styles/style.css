@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Montserrat";
+  background: #fff;
+}
+
+h1 {
+  font-size: 200px;
+  text-transform: uppercase;
+  font-weight: 900;
+  letter-spacing: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  margin: 0;
+  background: url("../img/erik-mclean-T9o1cyfad34-unsplash.jpg");
+  background-size: cover;
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
